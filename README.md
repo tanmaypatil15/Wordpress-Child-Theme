@@ -1,2 +1,2 @@
-# wordpress-child-theme
+# Wordpress-Child-Theme
 This is Custom WordPress Child Theme
